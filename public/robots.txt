@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /gestion-smart/
+Disallow: /gestion-smart
+
+Sitemap: https://smart-events.ma/sitemap.xml
